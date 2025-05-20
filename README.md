@@ -7,7 +7,7 @@ This repository aims to define and standardize a comprehensive set of protocols,
 - **API Protocols/Specifications:** Standards for designing, documenting, and consuming APIs.
 - **Organizational & Collaboration Protocols:** Guidelines for contributor interactions, governance, and workflow best practices.
 
-- ## Protocol Index
+# Protocol Index
 
 - [Interoperability Checklist](communication/interoperability-checklist.md)
 - [Procedural Standardization](collaboration/procedural-standardization-checklist.md)
