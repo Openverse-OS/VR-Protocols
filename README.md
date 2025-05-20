@@ -9,9 +9,9 @@ This repository aims to define and standardize a comprehensive set of protocols,
 
 # Protocol Index
 
-- [Interoperability Checklist](communication/interoperability-checklist.md)
-- [Procedural Standardization](collaboration/procedural-standardization-checklist.md)
-- [Data Repositories Protocol](api/data-repositories-checklist.md)
+- [Interoperability Checklist](Interoperability)
+- [Procedural Standardization](ProceduralStandardization)
+- [Data Repositories Protocol](DataRepositories)
 
 ## Getting Started
 
