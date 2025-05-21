@@ -76,7 +76,7 @@ This checklist is designed to ensure that VR studies are conducted ethically, wi
 
 ### Data Privacy and Security
 
-- Ensure that all data collection, handling, and storage comply with relevant privacy regulations (e.g., HIPAA, GDPR) to protect participants' personal information.
+- Ensure that all data collection, handling, and storage comply with relevant privacy regulations (e.g., GDPR) to protect participants' personal information.
 - Implement robust encryption protocols for all sensitive VR-related data, including biometric, spatial, and interaction data, both in transit and at rest. This ensures that participant data remains secure, even in the event of a data breach or unauthorized access. Use end-to-end encryption when transferring data to external servers or collaborating institutions.
 - Be explicit about the type of data being collected and the ways in which it will be used, including the potential for long-term storage or reuse of the data in future studies.
 
