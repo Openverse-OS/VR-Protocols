@@ -122,10 +122,11 @@ This checklist is designed to ensure that VR studies are conducted safely, with 
 ### Hardware & Laboratory Setup
 
 - Use headsets with 90Hz refresh rates or higher and 6DoF (Six Degrees of Freedom) tracking to reduce latency and improve the user experience, as lower refresh rates may induce cybersickness.
-- For VR simulations lasting more than 30 minutes, ensure participants' interpupillary distance (IPD) is measured and set correctly to avoid eye strain and discomfort. Ill-fitted headsets can increase the risk of cybersickness over prolonged use.
+- Ensure participants' interpupillary distance (IPD) is measured and set correctly to avoid eye strain and discomfort. Ill-fitted headsets can increase the risk of cybersickness, especially over prolonged use.
 - Carefully design the physical research space to eliminate tripping hazards, sharp objects, or any furniture that participants may accidentally collide with while in the VR environment.
 - Implement virtual boundary systems (e.g., Oculus Guardian, HTC Chaperone) that alert participants when they approach the edges of the prepared lab space. This minimizes the risk of running into real-world obstacles and walls.
 - Avoid equipment setups that block exits or walkways. Ensure that participants can quickly remove headsets and evacuate the area in case of emergencies (e.g., alarms, fire drills).
+- Avoid leaving ambulatory participants in VR unattended. If maintaing a sense of privacy is a concern, then keep watch over participants through a real-time video feed.
 - Set accompanying audio to an acceptable level that will not induce hearing damage.
 
 ### Laboratory Procedures
@@ -133,7 +134,7 @@ This checklist is designed to ensure that VR studies are conducted safely, with 
 - Enable screen casting to monitor participants’ behavior in both the physical and virtual environments, as long as it does not impede participants’ experience (e.g., reduce frame rates below comfortable levels). This dual observation ensures quick responses in case of signs of discomfort or physical hazard.
 - For VR simulations lasting more than 30 minutes, ensure that participants can take breaks. Long uninterrupted sessions may increase the risk of cybersickness and physical strain.
 - Clean headsets and controllers regularly with disinfecting wipes for lenses and UV sanitization for the headset and controllers. Hygiene is crucial for maintaining a safe and healthy environment for all participants.
-- Exclude participants with pre-existing physical and/or psychological conditions (e.g., schizophrenia), or known susceptibilities (e.g., epilepsy, severe motion sickness), that could be exacerbated by the VR simulation.
+- Unless these groups of participants are specifically targeted as part of a VR therapy study, participants with pre-existing physical and/or psychological conditions (e.g., schizophrenia), or known susceptibilities (e.g., epilepsy, severe motion sickness), are best excluded from participating as their condition could be unwittingly exacerbated by the VR simulation.
 
 ### Managing Cybersickness
 
