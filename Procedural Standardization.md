@@ -11,7 +11,7 @@ This checklist is designed to ensure the procedural standardization of VR studie
 - Provide a comprehensive description of the simulation used, including its name, version number, and any plug-ins or extensions.
 - If a custom simulation was developed, provide the source code or clear instructions for accessing the data repository (see protocols for data repositories).
 - Document the length of each trial or task, including any breaks or pauses in the experiment. Extended periods in VR can contribute to both cognitive fatigue and cybersickness, so this information is crucial for replicability.
-- Document the simulation mode (e.g., content streaming via link mode or deployment directly on headset as build) and researcher involvement during the experiment (e.g., manipulating the environment during runtime).
+- Document the simulation mode (e.g., content streaming via link mode or deployment directly on headset) and researcher involvement during the experiment (e.g., manipulating the environment during runtime).
 - Describe the observatory condition during the experiment (e.g., people present in the room during experiment or the observation of participants via camera or screencast)
 
 ### Hardware
