@@ -1,4 +1,4 @@
-Glossary
+## Glossary
 
 Virtural Reality (VR) - 
 Hardware - 
