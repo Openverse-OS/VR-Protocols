@@ -17,7 +17,7 @@ This checklist is designed to facilitate the interoperability of VR studies, ens
 
 ## OPEN VR
 
-As described by the Khronos Group, OpenVR is an open standard that provides a common set of APIs for developing VR applications that run across a wide range of VR devices. OpenVR enables developers to ‘develop once, deploy everywhere’. This can greatly expand the set of headsets on which an VR simulation can be run.
+As described by the Khronos Group, OpenVR is an open standard (i.e., a common set of APIs) that allow VR simulations to run on practically any headset. In other words, OpenVR enables developers to ‘develop once, deploy everywhere’. This can greatly expand the set of headsets on which an VR simulation can be run.
 
 - Implement OpenVR in project.
 - Versions should be listed for OpenVR and any other SDK used.
