@@ -138,7 +138,7 @@ This checklist is designed to ensure that VR studies are conducted safely, with 
 
 ### Managing Cybersickness
 
-With advancements in hardware and improved simulation design, cybersickness—once a common concern—has been greatly minimized. High-quality headsets, along with refined design principles, have significantly reduced issues like nausea, dizziness, and oculomotor discomfort. By also adhering to the following guidelines, the risk of cybersickness can be virtually eliminated.
+With advancements in hardware and improved simulation design, cybersickness—once a common concern—has been greatly minimized. High-quality headsets, along with refined design principles, have significantly reduced issues like nausea, dizziness, and oculomotor discomfort. By also adhering to the following guidelines, the risk of cybersickness can be greatly reduced.
 
 - Minimize or avoid using artificial locomotion (e.g., joystick-based movement) in favor of natural locomotion (e.g., walking) to reduce cybersickness. If artificial locomotion is necessary, use slow speeds or short bursts.
 - Design VR environments with smooth, predictable visual movements to reduce motion-to-visual conflicts that can cause disorientation or nausea.
@@ -146,8 +146,8 @@ With advancements in hardware and improved simulation design, cybersickness—on
 - Provide instructions and training to help participants adjust to the controls and navigation methods used in the VR simulation.
 - Adopt a comfort rating system to categorize the intensity of the VR simulation and inform participants of the expected comfort level beforehand:
 
-    - **Comfortable:** Seated experience with no locomotion or disorienting effects; suitable for almost all participants. No risk for cybersickness.
-    - **Moderate:** May include some locomotion or occasional disorienting effects; suitable for most participants. Minimal risk for cybersickness.
-    - **Intense:** Includes lots of locomotion or disorienting effects; not recommended for participants without VR experience. Some risk for cybersickness.
+    - **Comfortable:** Seated experience with no locomotion or disorienting effects; suitable for almost all participants. Minimal risk for cybersickness (i.e., eye strain).
+    - **Moderate:** May include some locomotion or occasional disorienting effects; suitable for most participants. Some risk for cybersickness (i.e., mild discomfort).
+    - **Intense:** Includes lots of locomotion or disorienting effects; not recommended for participants without VR experience. Notable risk for cybersickness (i.e., nausea).
 
 - For moderate or intense VR simulations, provide participants with a space to rest after completing the simulation.
