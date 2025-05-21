@@ -30,6 +30,7 @@ This checklist is designed to ensure the procedural standardization of VR studie
 
 - Provide a detailed description of the instructions presented to participants, such as how they engaged with the VR simulation, whether any training or familiarization periods were in place (including their duration), if there were any movement constraints, and when the instructions were communicated (i.e., prior or during simulation).
 - Provide a detailed description of the tasks to be performed by participants in the VR simulation (e.g., interacting with confederates, observing a chain of events).
+- Provide a detailed description of the instructions given and tasks performed within the lab while outside of the VR simulation.
 
 ---
 
