@@ -52,3 +52,5 @@ This checklist is designed to facilitate the sharing of data and code from studi
 - If the data set includes automatic output from the VR hardware that is not immediately relevant to the research question (e.g., head orientation or eye fixation data) include this in a separate file.
 - Ensure that a researcher only needs to follow two steps to reproduce the analysis: 1) upload the data into the analysis software, and 2) run the analysis code.
 - Share a link to the repository in the methods section of the paper and/or data availability statements.
+- In the event additional physiological measures were collected (e.g., body/eye tracking, heart-rate, etc.), prevent combining these data streams with other participant data that could lead to participant reidentification. 
+  
