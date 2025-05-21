@@ -15,8 +15,8 @@ This checklist is designed to facilitate the sharing of data and code from studi
 ## Uploading Files to Data Repositories
 
 - Upload a readme file that describes the contents of the repository
-- Upload the complete VR simulation (i.e., the final build) for other researchers to replicate the study in an identical manner
-- Upload VR assets (e.g., individual objects, environments, confederates) for other researchers to recreate and/or repurpose elements of the VR simulation, also if the final build becomes defunct due to new updates.
+- Upload the complete VR simulation for other researchers to replicate the study in an identical manner
+- Upload VR assets (e.g., individual objects, environments, confederates) for other researchers to recreate and/or repurpose elements of the VR simulation, also if the VR simulation becomes defunct due to new updates.
 - Upload VR participant data (e.g., measures of presence) for other researchers to use as a benchmark for their own VR research.
 
 ---
