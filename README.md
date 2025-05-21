@@ -11,9 +11,13 @@ This repository aims to define and standardize a comprehensive set of protocols,
 
 # Protocol Index
 
-- [Interoperability Checklist](Interoperability)
-- [Procedural Standardization](Procedural_Standardization)
+- [Interoperability Checklist](Interoperability.md)
+- [Procedural Standardization](Procedural_Standardization.md)
 - [Data Repositories Protocol](Data_Repositories)
+
+# Development Process
+
+- [Delphi Method](Development_(Delphi).md)
 
 ## Getting Started
 
