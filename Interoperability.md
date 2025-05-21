@@ -6,12 +6,12 @@ This checklist is designed to facilitate the interoperability of VR studies, ens
 
 ## DIGITAL ASSETS
 
-- Digital assets should be in commonly used formats (e.g., FBX or WAV files).
-- VR simulations should be created in commonly used engines (e.g., Unity or Unreal Engine).
+- Digital assets should be in commonly used formats.
+- VR simulations should be created in commonly used engines.
 - Digital assets for each project have been fully listed in an online repository (e.g., listing what environments were used, the rendering pipeline, the credits for audio files, etc.).
 - Version numbers have been listed for each asset used. This should include versions of the software used to develop and apply custom assets. For example, if a model was created in Blender for use in Unity, the version number of Blender and Unity should also be reported.
 - Basic characteristics of digital assets should be listed to identify eligibility for specific VR simulations (e.g., high poly / low poly, material type, animations, etc.).
-- Version control should be used in projects, and version numbers should be provided for VR simulations (version control could be through Unity VCS, Perforce, Git LFS, among others). For example, the first study completed from a Unity project could be version 1.0, but then the second study with its modifications could be version 2.0. Making it easy to revert to 1.0, or work on 1.0 separately, can help replicability.
+- Version control should be used in projects, and version numbers should be provided for VR simulations. For example, the first study completed from a Unity project could be version 1.0, but then the second study with its modifications could be version 2.0. Making it easy to revert to 1.0, or work on 1.0 separately, can help replicability.
 
 ---
 
