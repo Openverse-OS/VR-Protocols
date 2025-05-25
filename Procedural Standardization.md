@@ -134,7 +134,7 @@ This checklist is designed to ensure that VR studies are conducted safely, with 
 - Enable screen casting to monitor participants’ behavior in both the physical and virtual environments, as long as it does not impede participants’ experience (e.g., reduce frame rates below comfortable levels). This dual observation ensures quick responses in case of signs of discomfort or physical hazard.
 - For VR simulations lasting more than 30 minutes, ensure that participants can take breaks. Long uninterrupted sessions may increase the risk of cybersickness and physical strain.
 - Clean headsets and controllers regularly with disinfecting wipes for lenses and UV sanitization for the headset and controllers. Hygiene is crucial for maintaining a safe and healthy environment for all participants.
-- Unless these groups of participants are specifically targeted as part of a VR therapy study, participants with pre-existing physical and/or psychological conditions (e.g., schizophrenia), or known susceptibilities (e.g., epilepsy, severe motion sickness), are best excluded from participating as their condition could be unwittingly exacerbated by the VR simulation.
+- Unless specifically targeted as part of a VR study with appropriate clinical expertise, participants with pre-existing physical and/or psychological conditions or known susceptibilities that could be unwittingly exacerbated by a given VR simulation should be excluded (e.g., using standard simulations without risk mitigation for individuals with photosensitive epilepsy).
 
 ### Managing Cybersickness
 
