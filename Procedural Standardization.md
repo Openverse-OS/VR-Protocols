@@ -72,7 +72,7 @@ If virtual humanoids are present:
   - Humanness index, 18 items, α = .84.
 
 If participants interact with virtual objects:
-- Include a measurement of usability (i.e., the perceived ease of use of interacting with digital assets)
+- Include a measurement of usability (i.e., the perceived ease of use of interacting with digital assets).
   - System Usability Scale, 10 items, α = .91.
 
 ---
