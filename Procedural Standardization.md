@@ -40,28 +40,40 @@ Researchers have measured a wide range of variables that are unique to VR simula
 
 Researchers are also encouraged to include additional measurements depending on the specific aims and scope of their VR study. These additional metrics can provide further insights into participants’ experiences and the underlying mechanisms of VR interactions, ultimately enhancing the study’s robustness and replicability.
 
+The measurement instruments illustrated below are validated and widely used amongst VR researchers. These are updated when newer, more psychometrically accurate, measurement instruments are developed. The full instrument, including all items and their scoring, can be found in the templates. [<-- ADD A LINK!!!]
+
 As with all research, researchers should adhere to transparent reporting protocols and include references for their chosen measurement scales, a codebook, and a scoring protocol.
 
 ### Baseline
 
 - Include a measurement of presence (i.e., the feeling of being physically present in the virtually enriched world). Can include self, social, and telepresence.
+  - Igroup Presence Questionnaire (IPQ), 14 items, α = .87.
+  - Slater-Usoh-Steed (SUS), 6 items, α = .75.
+  - Spatial Presence Experience Scale (SPES), 8 items, α = .89.
 - Include a measurement of VR familiarity (i.e., the prior exposure participants have had to VR technology).
+  - Self-rated familiarity, 2 items, "How familiar are you with VR?" & "How many sessions have you spent in VR?"
 
 ### Additional VR-Specific Measurements
 
 If locomotion is induced:
 - Include a measurement of cybersickness (i.e., an experience of nausea, disorientation, and/or oculomotor-issues while using VR).
+  - Cybersickness in Virtual Reality Questionnaire (CSQ-VR), 6 items, α = .87.
 
 If participants have a virtual body:
-- Include a measurement of body ownership (i.e., the feeling that the virtual body belongs to oneself).
-- Include a measurement of agency (i.e., the feeling that the virtual body accurately follows the movements of one’s own movements).
+- Include a measurement of body ownership and agency (i.e., the feeling that the virtual body belongs to oneself and that it accurately follows the movements of one's own movements).
+  - Illusion of Virtual Body Ownership (IVBO), 16 items, α = .91.
+  - Virtual Embodiment Questionnaire (VEQ), 12 items, α = .88.
+  - Embodiment Questionnaire (EQ), 11 items, α = .89.
 
 If virtual humanoids are present:
 - Include a measurement of social presence (i.e., the feeling of being physically present with another humanoid entity in the virtually enriched world).
+  - Social Presence Scale (SPS), 14 items, α = .88.
 - Include a measurement of the uncanny valley effect (i.e., the discomfort evoked by interacting with virtual humans or robots that are almost realistic).
+  - Humanness index, 18 items, α = .84.
 
 If participants interact with virtual objects:
 - Include a measurement of usability (i.e., the perceived ease of use of interacting with digital assets)
+  - System Usability Scale, 10 items, α = .91.
 
 ---
 
