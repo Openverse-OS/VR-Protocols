@@ -4,7 +4,7 @@ To establish protocols for VR simulations, this project employed the Delphi meth
 
 ### VR Experts
 
-A panel of 37 VR scholars participated in the Delphi process. These experts represented a broad range of fields, including psychology, marketing, communication, business, informatics, and engineering. All participants had substantial experience in behavioral science research, ensuring the consensus protocols reflected interdisciplinary and methodological breadth.
+A panel of 41 VR scholars participated in the Delphi process. These experts represented a broad range of fields, including psychology, marketing, communication, business, informatics, and engineering. All participants had substantial experience in behavioral science research, ensuring the consensus protocols reflected interdisciplinary and methodological breadth.
 
 ### Procedure
 
