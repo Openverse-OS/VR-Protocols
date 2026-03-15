@@ -68,7 +68,7 @@ If participants have a virtual body:
 If virtual humanoids are present:
 - Include a measurement of social presence (i.e., the feeling of being physically present with another humanoid entity in the virtually enriched world).
   - Social Presence Scale (SPS), 14 items, α = .88.
-- Include a measurement of the uncanny valley effect (i.e., the discomfort evoked by interacting with virtual humans or robots that are almost realistic).
+- [If using animated avatars] Include a measurement of the uncanny valley effect (i.e., the discomfort evoked by interacting with virtual humans or robots that are almost realistic).
   - Humanness index, 18 items, α = .84.
 
 If participants interact with virtual objects:
