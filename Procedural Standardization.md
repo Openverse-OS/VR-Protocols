@@ -152,7 +152,7 @@ This checklist is designed to ensure that VR studies are conducted safely, with 
 
 With advancements in hardware and improved simulation design, cybersickness—once a common concern—has been greatly minimized. High-quality headsets, along with refined design principles, have significantly reduced issues like nausea, dizziness, and oculomotor discomfort. By also adhering to the following guidelines, the risk of cybersickness can be greatly reduced.
 
-- Minimize or avoid using artificial locomotion (e.g., joystick-based movement) in favor of natural locomotion (e.g., walking) to reduce cybersickness. If artificial locomotion is necessary, use slow speeds or short bursts.
+- Minimize or avoid using artificial locomotion (e.g., joystick-based movement) in favor of natural locomotion (e.g., walking) to reduce cybersickness. If artificial locomotion is necessary, use slow speeds, short bursts (e.g., teleportation), or blurr non-salient regions.
 - Design VR environments with smooth, predictable visual movements to reduce motion-to-visual conflicts that can cause disorientation or nausea.
 - Allow participants to gradually acclimate to the virtual environment by starting with simple, low-intensity tasks before progressing to more complex or intense experiences.
 - Provide instructions and training to help participants adjust to the controls and navigation methods used in the VR simulation.
