@@ -15,13 +15,13 @@ This checklist is designed to facilitate the interoperability of VR studies, ens
 
 ---
 
-## OPEN VR
+## OPEN XR
 
-As described by the Khronos Group, OpenVR is an open standard (i.e., a common set of APIs) that allow VR simulations to run on practically any headset. In other words, OpenVR enables developers to ‘develop once, deploy everywhere’. This can greatly expand the set of headsets on which an VR simulation can be run.
+As described by the Khronos Group, OpenXR is an open standard (i.e., a common set of APIs) that allow VR simulations to run on practically any headset. In other words, OpenXR enables developers to ‘develop once, deploy everywhere’. This can greatly expand the set of headsets on which an VR simulation can be run.
 
-- Implement OpenVR in project.
-- Versions should be listed for OpenVR and any other SDK used.
-- If deviating from OpenVR, provide the details of what SDK was used and list what headsets the software will run.
+- Implement OpenXR in project.
+- Versions should be listed for OpenXR and any other SDK used.
+- If deviating from OpenXR, provide the details of what SDK was used and list what headsets the software will run.
 
 > **Note:** As other technologies arise with a similar architecture to OpenVR, say for audio, researchers should adopt those technologies.
 
