@@ -14,7 +14,7 @@ This repository aims to define and standardize a comprehensive set of protocols,
 
 - [Interoperability Checklist](Interoperability.md)
 - [Procedural Standardization](Procedural%20Standardization.md)
-- [Data Repositories Protocol](Data%20Repositories)
+- [Data Repositories Protocol](Data%20Repositories.md)
 - [Measurement Scales](Measurement%20Scales.md)
 
 # Development Process
