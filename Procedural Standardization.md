@@ -40,7 +40,7 @@ Researchers have measured a wide range of variables that are unique to VR simula
 
 Researchers are also encouraged to include additional measurements depending on the specific aims and scope of their VR study. These additional metrics can provide further insights into participants’ experiences and the underlying mechanisms of VR interactions, ultimately enhancing the study’s robustness and replicability.
 
-The measurement instruments illustrated below are validated and widely used amongst VR researchers. These are updated when newer, more accurate, measurement instruments are developed. The full instrument, including all items and their scoring, can be found in the templates. [<-- ADD A LINK!!!]
+The measurement instruments illustrated below are validated and widely used amongst VR researchers. These are updated when newer, more accurate, measurement instruments are developed. The full instrument, including all items and their scoring, can be found in the [Measurement Scales](Measurement Scales.md).
 
 As with all research, researchers should adhere to transparent reporting protocols and include references for their chosen measurement scales, a codebook, and a scoring protocol.
 
@@ -83,7 +83,7 @@ This checklist is designed to ensure that VR studies are conducted ethically, wi
 
 ### Informed Consent
 
-- Ensure participants understand the immersive nature of an VR simulation, including the heightened physical (e.g., cybersickness) and psychological (e.g., emotional distress) impacts that might arise. Provide participants with the ability to withdraw at any time without penalty.
+- Ensure participants understand the immersive nature of a VR simulation, including the heightened physical (e.g., cybersickness) and psychological (e.g., emotional distress) impacts that might arise. Provide participants with the ability to withdraw at any time without penalty.
 - Allow participants to make informed decisions about how their data is collected, stored, and shared, with particular attention to sensitive data like biometric or interaction data.
 
 ### Data Privacy and Security
@@ -110,7 +110,7 @@ This checklist is designed to ensure that VR studies are conducted inclusively, 
 
 ### Inclusive Design
 
-- Design for the average participant: Unless the research question focuses on a specific subpopulation, develop an VR simulation that does not exclude large groups of people (e.g., people without VR and/or gaming experience).
+- Design for the average participant: Unless the research question focuses on a specific subpopulation, develop a VR simulation that does not exclude large groups of people (e.g., people without VR and/or gaming experience).
 - Design beyond the average participant: Unless the demands of the research question require otherwise, develop an inclusive VR simulation that addresses the needs of as many potential participants.
 - Supplement visual cues with audio cues, icons, or filters to support participants who are colorblind. Avoid relying solely on color for conveying important information.
 - Allow participants to adjust the size and distance of objects for better visibility and interaction, particularly for participants with vision impairments.
@@ -136,9 +136,9 @@ This checklist is designed to ensure that VR studies are conducted safely, with 
 - Use headsets with 90Hz refresh rates or higher and 6DoF (Six Degrees of Freedom) tracking to reduce latency and improve the user experience, as lower refresh rates may induce cybersickness.
 - Ensure participants' interpupillary distance (IPD) is measured and set correctly to avoid eye strain and discomfort. Ill-fitted headsets can increase the risk of cybersickness, especially over prolonged use.
 - Carefully design the physical research space to eliminate tripping hazards, sharp objects, or any furniture that participants may accidentally collide with while in the VR environment.
-- Implement virtual boundary systems (e.g., Oculus Guardian, HTC Chaperone) that alert participants when they approach the edges of the prepared lab space. This minimizes the risk of running into real-world obstacles and walls.
+- Implement virtual boundary systems (e.g., Meta Quest Boundary, HTC Chaperone) that alert participants when they approach the edges of the prepared lab space. This minimizes the risk of running into real-world obstacles and walls.
 - Avoid equipment setups that block exits or walkways. Ensure that participants can quickly remove headsets and evacuate the area in case of emergencies (e.g., alarms, fire drills).
-- Avoid leaving ambulatory participants in VR unattended. If maintaing a sense of privacy is a concern, then keep watch over participants through a real-time video feed.
+- Avoid leaving ambulatory participants in VR unattended. If maintaining a sense of privacy is a concern, then keep watch over participants through a real-time video feed.
 - Set accompanying audio to an acceptable level that will not induce hearing damage.
 
 ### Laboratory Procedures
@@ -152,7 +152,7 @@ This checklist is designed to ensure that VR studies are conducted safely, with 
 
 With advancements in hardware and improved simulation design, cybersickness—once a common concern—has been greatly minimized. High-quality headsets, along with refined design principles, have significantly reduced issues like nausea, dizziness, and oculomotor discomfort. By also adhering to the following guidelines, the risk of cybersickness can be greatly reduced.
 
-- Minimize or avoid using artificial locomotion (e.g., joystick-based movement) in favor of natural locomotion (e.g., walking) to reduce cybersickness. If artificial locomotion is necessary, use slow speeds, short bursts (e.g., teleportation), or blurr non-salient regions.
+- Minimize or avoid using artificial locomotion (e.g., joystick-based movement) in favor of natural locomotion (e.g., walking) to reduce cybersickness. If artificial locomotion is necessary, use slow speeds, short bursts (e.g., teleportation), or blur non-salient regions.
 - Design VR environments with smooth, predictable visual movements to reduce motion-to-visual conflicts that can cause disorientation or nausea.
 - Allow participants to gradually acclimate to the virtual environment by starting with simple, low-intensity tasks before progressing to more complex or intense experiences.
 - Provide instructions and training to help participants adjust to the controls and navigation methods used in the VR simulation.
