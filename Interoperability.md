@@ -1,6 +1,6 @@
 # Interoperability
 
-This checklist is designed to facilitate the interoperability of VR studies, ensuring that simulations, assets, and data can be used across different platforms, eliminating barriers to replication. This means that an VR simulation and its assets, produced by one or more researchers, can be redeployed by others across different hardware systems, settings, and locations.
+This checklist is designed to facilitate the interoperability of VR studies, ensuring that simulations, assets, and data can be used across different platforms, eliminating barriers to replication. This means that a VR simulation and its assets, produced by one or more researchers, can be redeployed by others across different hardware systems, settings, and locations.
 
 ---
 
@@ -15,9 +15,9 @@ This checklist is designed to facilitate the interoperability of VR studies, ens
 
 ---
 
-## OPEN XR
+## OPENXR
 
-As described by the Khronos Group, OpenXR is an open standard (i.e., a common set of APIs) that allow VR simulations to run on practically any headset. In other words, OpenXR enables developers to ‘develop once, deploy everywhere’. This can greatly expand the set of headsets on which an VR simulation can be run.
+As described by the Khronos Group, OpenXR is an open standard (i.e., a common set of APIs) that allows VR simulations to run on practically any headset. In other words, OpenXR enables developers to ‘develop once, deploy everywhere’. This can greatly expand the set of headsets on which a VR simulation can be run.
 
 - Implement OpenXR in project.
 - Versions should be listed for OpenXR and any other SDK used.
