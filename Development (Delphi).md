@@ -1,6 +1,6 @@
 ## Delphi Method for VR Protocol Development
 
-To establish protocols for VR simulations, this project employed the Delphi method: a structured, iterative process designed to build consensus among VR experts from diverse disciplines. The aim was to generate standardized practices, procedures and data-sharing standards that are both rigorous and widely applicable across VR research contexts within the behavioral sciences.
+To establish protocols for VR simulations, this project employed the Delphi method: a structured, iterative process designed to build consensus among VR experts from diverse disciplines. The aim was to generate standardized practices, procedures, and data-sharing standards that are both rigorous and widely applicable across VR research contexts within the behavioral sciences.
 
 ### VR Experts
 
