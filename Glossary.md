@@ -36,7 +36,7 @@
 - **End User License Agreements (EULA)** – Legal contracts between the software developer and the user, outlining the terms of use for the software.
 - **Online repository** – A storage location on the internet where digital assets, code, or data can be accessed, shared, and managed.
 - **Open Science Framework (OSF)** – An open-source platform supporting open scientific research and collaboration, including data and project sharing.
-- **OpenVR** – An open standard for access to VR hardware, allowing developers to write software compatible with multiple VR devices.
+- **OpenXR** – An open standard for access to VR hardware, allowing developers to write software compatible with multiple VR devices.
 - **Plug-ins** – Software components that add specific features or functions to an existing computer program, often in VR development tools.
 - **Readme file** – A document included in software repositories providing essential information about the project, installation, usage, and guidelines.
 - **Rendering pipeline** – The sequence of steps that a computer follows to convert 3D models into 2D images for display.
