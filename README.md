@@ -1,4 +1,4 @@
-# Protocols Repository
+# Protocols Repository (v.0.62; last updated March 30th, 2026)
 
 Welcome to the VR Protocols Repository! 
 
@@ -8,7 +8,13 @@ This repository aims to define and standardize a comprehensive set of protocols,
 - **Interoperability:** Specifications for data exchange, networking, and system interoperability.
 - **Procedural Standardization:** Standards for designing, documenting, and executing VR studies.
 - **Data sharing:** Guidelines for data repositories and author crediting.
-- **Measurement Scales:** Guidelines and items for standard measurement scales. 
+- **Measurement Scales:** Guidelines and items for standard measurement scales.
+
+# Interactive Reporting Checklist
+
+Use the VR Protocols interactive checklist to guide your VR study from first design to final audit. Define the key features of your project to generate a tailored set of requirements for planning, procedural standardization, data sharing, and ethics. Export a structured project record in .md, .docx, .pdf, or .json for transparent reporting, review, replication, and integration into your own workflow.
+
+www.vrprotocols.org
 
 # Protocol Index
 
