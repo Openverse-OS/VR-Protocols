@@ -1,4 +1,4 @@
-# Protocols Repository (v.0.62; last updated March 30th, 2026)
+<h1>Protocols Repository<br><sup><sub><em>(v0.62; last updated March 30th, 2026)</em></sub></sup></h1>
 
 Welcome to the VR Protocols Repository! 
 
