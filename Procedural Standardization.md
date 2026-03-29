@@ -40,7 +40,7 @@ Researchers have measured a wide range of variables that are unique to VR simula
 
 Researchers are also encouraged to include additional measurements depending on the specific aims and scope of their VR study. These additional metrics can provide further insights into participants’ experiences and the underlying mechanisms of VR interactions, ultimately enhancing the study’s robustness and replicability.
 
-The measurement instruments illustrated below are validated and widely used amongst VR researchers. These are updated when newer, more accurate, measurement instruments are developed. The full instrument, including all items and their scoring, can be found in the [Measurement Scales](Measurement Scales.md).
+The measurement instruments illustrated below are validated and widely used amongst VR researchers. These are updated when newer, more accurate, measurement instruments are developed. The full instrument, including all items and their scoring, can be found in the [Measurement Scales](Measurement%20Scales.md).
 
 As with all research, researchers should adhere to transparent reporting protocols and include references for their chosen measurement scales, a codebook, and a scoring protocol.
 
