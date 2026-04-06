@@ -1,5 +1,7 @@
 <h1>VR Protocols Repository<br><sup><sub><em>(v0.62; last updated March 30th, 2026)</em></sub></sup></h1>
 
+<a href="https://doi.org/10.5281/zenodo.19442410"><img src="https://zenodo.org/badge/986988562.svg" alt="DOI"></a>
+
 Welcome to the VR Protocols Repository! 
 
 Here we share a set of protocols for the broad Virtual Reality (VR) research community aimed at fostering open science, enabling seamless re-use of digital assets, and promoting collaboration through centralized repositories. These VR protocols were initially developed iteratively through the Delphi method by a team of 41 VR scholars spanning disciplines, institutions, and countries. As VR technology evolves, these protocols will be periodically reviewed and updated to ensure that open science procedures and replicability standards are maintained. To reflect this ongoing evolution, the protocols are assigned a version number, allowing researchers to reference and revert to earlier versions when conducting studies stemming from earlier iterations of the data-sharing cycle.
